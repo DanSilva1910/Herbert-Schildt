@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Primos",
+            "request": "launch",
+            "mainClass": "Exercicios.Primos",
+            "projectName": "Herbert Schildt_6da17749"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

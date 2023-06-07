@@ -3,23 +3,30 @@ package Exercicios;
 public class ForDemo {
     
     public static void main(String[] args) throws Exception {
+
+        int iresul, irem, x, y;
+
+        double dresul, drem;
+
+        iresul = 10 / 3;
+        irem = 10 % 3;
+
         
-        int count, fator, produto;
+        dresul = 10.0/ 3.0;
+        drem = 10.0 % 3.0;
 
-        for(fator = 0; fator <=10; fator ++){
-            System.out.println();
-            for(count = 0; count <=10; count ++){
-                produto = count * fator;
+        x = 10;
+        y = ++x;
+        System.out.println(y + " " + x);
+        y = y;
+        System.out.println(y);
+        
 
-                System.out.println(fator + " * "+ count +" = " + produto);
+        x = 10;
+        y = x++;
+        System.out.println(y + " " + x);
+        y = y ;
+        System.out.println(y);
                 
-            }
-        }
-
-
-
-
-
-           
     }
 }

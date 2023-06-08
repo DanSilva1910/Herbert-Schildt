@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CrivoDeEratostenes",
+            "request": "launch",
+            "mainClass": "Exercicios.CrivoDeEratostenes",
+            "projectName": "Herbert Schildt_6da17749"
+        },
+        {
+            "type": "java",
             "name": "Primos",
             "request": "launch",
             "mainClass": "Exercicios.Primos",

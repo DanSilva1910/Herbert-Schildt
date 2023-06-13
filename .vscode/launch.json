@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ForArbitrario",
+            "request": "launch",
+            "mainClass": "Exercicios.ForArbitrario",
+            "projectName": "Herbert-Schildt_e159862"
+        },
+        {
+            "type": "java",
+            "name": "Continue",
+            "request": "launch",
+            "mainClass": "Exercicios.Continue",
+            "projectName": "Herbert-Schildt_e159862"
+        },
+        {
+            "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "Exercicios.Contador",
+            "projectName": "Herbert-Schildt_e159862"
+        },
+        {
+            "type": "java",
+            "name": "ConTeste",
+            "request": "launch",
+            "mainClass": "Exercicios.ConTeste",
+            "projectName": "Herbert-Schildt_e159862"
+        },
+        {
+            "type": "java",
+            "name": "ContEspacos",
+            "request": "launch",
+            "mainClass": "Exercicios.ContEspacos",
+            "projectName": "Herbert-Schildt_e159862"
+        },
+        {
+            "type": "java",
+            "name": "NumerosPrimos",
+            "request": "launch",
+            "mainClass": "Exercicios.NumerosPrimos",
+            "projectName": "Herbert-Schildt_e159862"
+        },
+        {
+            "type": "java",
+            "name": "PrimosModificado",
+            "request": "launch",
+            "mainClass": "Exercicios.PrimosModificado",
+            "projectName": "Herbert-Schildt_e159862"
+        },
+        {
+            "type": "java",
             "name": "Primos",
             "request": "launch",
             "mainClass": "Exercicios.Primos",

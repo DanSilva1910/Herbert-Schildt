@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Somador",
+            "request": "launch",
+            "mainClass": "Exercicios.Somador",
+            "projectName": "Herbert Schildt_6da17749"
+        },
+        {
+            "type": "java",
+            "name": "Help",
+            "request": "launch",
+            "mainClass": "Exercicios.Help",
+            "projectName": "Herbert Schildt_6da17749"
+        },
+        {
+            "type": "java",
             "name": "CrivoDeEratostenes",
             "request": "launch",
             "mainClass": "Exercicios.CrivoDeEratostenes",

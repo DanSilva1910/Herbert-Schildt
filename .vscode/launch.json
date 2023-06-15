@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HelpClassDemo",
+            "request": "launch",
+            "mainClass": "Exercicios.HelpClassDemo",
+            "projectName": "Herbert Schildt_6da17749"
+        },
+        {
+            "type": "java",
+            "name": "ParDemo",
+            "request": "launch",
+            "mainClass": "Exercicios.ParDemo",
+            "projectName": "Herbert Schildt_6da17749"
+        },
+        {
+            "type": "java",
+            "name": "AddMeth",
+            "request": "launch",
+            "mainClass": "Exercicios.AddMeth",
+            "projectName": "Herbert Schildt_6da17749"
+        },
+        {
+            "type": "java",
             "name": "Somador",
             "request": "launch",
             "mainClass": "Exercicios.Somador",

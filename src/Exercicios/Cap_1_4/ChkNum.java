@@ -1,4 +1,4 @@
-package Exercicios;
+package Cap_1_4;
 
 public class ChkNum {
     // retorna true se x for par

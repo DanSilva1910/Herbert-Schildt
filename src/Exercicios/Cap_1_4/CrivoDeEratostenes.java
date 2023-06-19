@@ -1,4 +1,4 @@
-package Exercicios;
+package Cap_1_4;
 
 /*
 Crivo de Eratóstenes

@@ -1,4 +1,4 @@
-package Exercicios;
+package Cap_1_4;
 // coverte galões em litros
 public class GalToLit {
     public static void main(String[] args) throws Exception {

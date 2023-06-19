@@ -1,4 +1,4 @@
-package Exercicios;
+package Cap_1_4;
 // classe geral
 public class Vehicle {
     int passengers;

@@ -1,16 +1,12 @@
-package Exercicios;
+package Cap_1_4;
 
-    import java.util.Scanner;
-
-public class Primos {
+public class NumerosPrimos {
+ 
     public static void main(String[] args) {
         int inicio, fim, primo=0;
+         inicio = 2;
+         fim = 100;
 
-        Scanner entrada = new Scanner(System.in);
-        System.out.print("Número inicial: ");
-        inicio = entrada.nextInt();
-        System.out.print("Número final: ");
-        fim = entrada.nextInt();
 
         for (int i=inicio; i<=fim; i++) {
             for (int j=1; j<=i; j++) {
@@ -24,6 +20,6 @@ public class Primos {
             primo = 0;
         }
 
-        entrada.close();
     }
 }
+    

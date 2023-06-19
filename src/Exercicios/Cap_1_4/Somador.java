@@ -1,5 +1,4 @@
-package Exercicios;
-
+package Cap_1_4;
 public class Somador {
     public static void main(String[] args) {
         int contador, soma = 0;

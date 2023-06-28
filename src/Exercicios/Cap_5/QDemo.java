@@ -3,8 +3,8 @@ package Cap_5;
 import javax.swing.text.html.HTMLDocument.HTMLReader.IsindexAction;
 
 class Queue {
-    char q[]; // esse array contém a fila
-    int putloc, getloc; // indices put e get
+    private char q[]; // esse array contém a fila
+    private int putloc, getloc; // indices put e get
 
     Queue(int size) {
         q = new char[size]; //aloca memoria para a fila
